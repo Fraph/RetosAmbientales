@@ -7,7 +7,8 @@
 3. [Impacto de los actuales problemas medioambientales](impacto.md)
 4. [Medidas y acciones medioambientales](medidas.md)
 
-
+---
+![socialambiental](img/Socialambiental.png)
 ---
 
 [Conclusiones](conclusiones.md)
