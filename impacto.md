@@ -1,9 +1,12 @@
 # 1.3 Impacto de los actuales problemas medioambientales.
 ## Hablaremos de los 10 principales problemas medioambientales del mundo:
 ## 1. Calentamiento global
+<img src="img/fotogod.jpg" alt="fotogod" width="300"/>
+
 Las temperaturas medias del planeta cada vez son mayores, esto se debe principalmente a las emisiones de co2, gases del efecto invernadero
 ## 2. Contaminación
 ![contaminación](img/contaminacion.jpg)
+
 Segun la OMS el 90% de la humanidad respira aire contaminado, pero no solo se contamina el aire tambien el agua y la tierra.
 * Aire: Si reducieramos la polución la cantidad de enfermedades respiratorias caeria drasticamente. El aire contaminado es motivo de 7 millones de muertes al año.
 * Mar/agua: La contaminacion de las aguas tambien acarrea grandes problemas de salud.
