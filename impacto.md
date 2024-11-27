@@ -3,6 +3,7 @@
 ## 1. Calentamiento global
 Las temperaturas medias del planeta cada vez son mayores, esto se debe principalmente a las emisiones de co2, gases del efecto invernadero
 ## 2. Contaminación
+![contaminación](img/contaminacion.jpg)
 Segun la OMS el 90% de la humanidad respira aire contaminado, pero no solo se contamina el aire tambien el agua y la tierra.
 * Aire: Si reducieramos la polución la cantidad de enfermedades respiratorias caeria drasticamente. El aire contaminado es motivo de 7 millones de muertes al año.
 * Mar/agua: La contaminacion de las aguas tambien acarrea grandes problemas de salud.
