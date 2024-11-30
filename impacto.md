@@ -36,11 +36,19 @@ Segun la OMS el 90% de la humanidad respira aire contaminado, pero no solo se co
   Esto hace que tengamos que comprar constantemente productos nuevos, lo que aumenta el uso de materiales y la generación de residuos.
   Además, si no se gestionan bien, los residuos electrónicos pueden ser peligrosos para el medioambiente.
 ## 7. Residuos:
+<img src="img/residuos.jpeg" alt="residuos" width="300"/>
+
 * A medida que la población mundial crece y consumimos más, también aumentan los residuos que generamos. La economía circular puede ayudarnos a evitar una crisis, promoviendo la reducción, el reciclaje y la reutilización de los materiales.
 ## 8. Superpoblación.
+<img src="img/superpoblacion.jpeg" alt="superpoblacion" width="300"/>
+
 * Según la ONU, en menos de diez años seremos más de 8.500 millones de personas en el planeta. Esto no solo incrementará la cantidad de residuos, sino también la explotación de materias primas, que no son infinitas. Por eso, es clave gestionar los recursos de manera responsable si queremos asegurar nuestra supervivencia.
 ## 9. Invasion y tráfico ilegal de especies
+<img src="img/trafico.jpeg" alt="trafico" width="300"/>
+
 * El tráfico ilegal de especies no solo es devastador para los animales, sino también para el medioambiente, ya que puede introducir especies invasoras o enfermedades que alteren ecosistemas enteros.
 Para combatirlo quizas deberiamos implementar leyes más estrictas, y quizas educar mejor a la poblacion respecto a estos temas.
 ## 10. Desconexión social
+<img src="img/desconexion.jpeg" alt="dexconexion" width="300"/>
+
 No vivimos aislados, somos parte de una sociedad y, aunque no somos los únicos responsables del estado del medioambiente, no podemos solucionarlo por nuestra cuenta. El voluntariado y el activismo medioambiental son fundamentales ahora más que nunca. Una buena forma de involucrarse y hacer frente a esta desconexión es unirse a iniciativas  o incluso crear una propia.
