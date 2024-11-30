@@ -1,7 +1,7 @@
 # 1.3 Impacto de los actuales problemas medioambientales.
 ## Hablaremos de los 10 principales problemas medioambientales del mundo:
 ## 1. Calentamiento global
-<img src="img/fotogod.jpg" alt="fotogod" width="300"/>
+<img src="img/fotogod.jpg" alt="fotogod" width="400"/>
 
 Las temperaturas medias del planeta cada vez son mayores, esto se debe principalmente a las emisiones de co2, gases del efecto invernadero
 ## 2. Contaminación
@@ -16,9 +16,11 @@ Segun la OMS el 90% de la humanidad respira aire contaminado, pero no solo se co
    * La puntual: que ocurre en lugares específicos como ciudades o fábricas sin control.
    * La difusa: que afecta áreas más amplias y es más difícil de rastrear, impactando tanto el aire, el agua como la tierra y causando mayores daños al medioambiente.
 ## 3. Deforestacion:
-![deforestacion](img/deforestacion.jpg)
+<img src="img/deforestacion.png" alt="deforestacion" width="300"/>
+
 * El problema de la deforestacion afecta principalmente a Africa y America del sur debido a que no tienen una gran agricultura, realizan una gran sobreexplotacion de la industria de la madera
 ## 4. Pérdida de biodiversidad:
+
 * La pérdida de biodiversidad está provocada por varios factores, siendo el principal la destrucción de los hábitats de las especies, que ocurre cuando se transforman en tierras para agricultura, ganadería o urbanización.
   Esto ha llevado a que el 8% de las especies animales ya se hayan extinguido y el 22% esté en peligro. Es importante proteger los espacios naturales con leyes y concienciar a la gente sobre la importancia de cuidar la biodiversidad.
 ## 5. Sequía:
@@ -31,7 +33,7 @@ Segun la OMS el 90% de la humanidad respira aire contaminado, pero no solo se co
 ## 7. Residuos:
 * A medida que la población mundial crece y consumimos más, también aumentan los residuos que generamos. La economía circular puede ayudarnos a evitar una crisis, promoviendo la reducción, el reciclaje y la reutilización de los materiales.
 ## 8. Superpoblación.
-Según la ONU, en menos de diez años seremos más de 8.500 millones de personas en el planeta. Esto no solo incrementará la cantidad de residuos, sino también la explotación de materias primas, que no son infinitas. Por eso, es clave gestionar los recursos de manera responsable si queremos asegurar nuestra supervivencia.
+* Según la ONU, en menos de diez años seremos más de 8.500 millones de personas en el planeta. Esto no solo incrementará la cantidad de residuos, sino también la explotación de materias primas, que no son infinitas. Por eso, es clave gestionar los recursos de manera responsable si queremos asegurar nuestra supervivencia.
 ## 9. Invasion y tráfico ilegal de especies
 * El tráfico ilegal de especies no solo es devastador para los animales, sino también para el medioambiente, ya que puede introducir especies invasoras o enfermedades que alteren ecosistemas enteros.
 Para combatirlo quizas deberiamos implementar leyes más estrictas, y quizas educar mejor a la poblacion respecto a estos temas.
