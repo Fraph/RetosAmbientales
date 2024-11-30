@@ -1,5 +1,4 @@
 # 1.3 Impacto de los actuales problemas medioambientales.
-## Hablaremos de los 10 principales problemas medioambientales del mundo:
 ## 1. Calentamiento global
 <img src="img/fotogod.jpg" alt="fotogod" width="400"/>
 
