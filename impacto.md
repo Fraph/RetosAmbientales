@@ -49,6 +49,6 @@ Segun la OMS el 90% de la humanidad respira aire contaminado, pero no solo se co
 * El tráfico ilegal de especies no solo es devastador para los animales, sino también para el medioambiente, ya que puede introducir especies invasoras o enfermedades que alteren ecosistemas enteros.
 Para combatirlo quizas deberiamos implementar leyes más estrictas, y quizas educar mejor a la poblacion respecto a estos temas.
 ## 10. Desconexión social
-<img src="img/desconexion.jpeg" alt="dexconexion" width="300"/>
+<img src="img/dexconexion.jpeg" alt="dexconexion" width="300"/>
 
 No vivimos aislados, somos parte de una sociedad y, aunque no somos los únicos responsables del estado del medioambiente, no podemos solucionarlo por nuestra cuenta. El voluntariado y el activismo medioambiental son fundamentales ahora más que nunca. Una buena forma de involucrarse y hacer frente a esta desconexión es unirse a iniciativas  o incluso crear una propia.
