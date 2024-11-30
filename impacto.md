@@ -16,6 +16,7 @@ Segun la OMS el 90% de la humanidad respira aire contaminado, pero no solo se co
    * La puntual: que ocurre en lugares específicos como ciudades o fábricas sin control.
    * La difusa: que afecta áreas más amplias y es más difícil de rastrear, impactando tanto el aire, el agua como la tierra y causando mayores daños al medioambiente.
 ## 3. Deforestacion:
+![deforestacion](img/deforestacion.jpg)
 * El problema de la deforestacion afecta principalmente a Africa y America del sur debido a que no tienen una gran agricultura, realizan una gran sobreexplotacion de la industria de la madera
 ## 4. Pérdida de biodiversidad:
 * La pérdida de biodiversidad está provocada por varios factores, siendo el principal la destrucción de los hábitats de las especies, que ocurre cuando se transforman en tierras para agricultura, ganadería o urbanización.
