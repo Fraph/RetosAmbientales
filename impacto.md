@@ -20,10 +20,12 @@ Segun la OMS el 90% de la humanidad respira aire contaminado, pero no solo se co
 
 * El problema de la deforestacion afecta principalmente a Africa y America del sur debido a que no tienen una gran agricultura, realizan una gran sobreexplotacion de la industria de la madera
 ## 4. Pérdida de biodiversidad:
+<img src="img/biodiversidad.png" alt="biodiversidad" width="300"/>
 
 * La pérdida de biodiversidad está provocada por varios factores, siendo el principal la destrucción de los hábitats de las especies, que ocurre cuando se transforman en tierras para agricultura, ganadería o urbanización.
   Esto ha llevado a que el 8% de las especies animales ya se hayan extinguido y el 22% esté en peligro. Es importante proteger los espacios naturales con leyes y concienciar a la gente sobre la importancia de cuidar la biodiversidad.
 ## 5. Sequía:
+
 * Las temperaturas han subido en las últimas décadas, lo que ha provocado un aumento en los eventos climáticos extremos como olas de calor, huracanes y sequías. Estos fenómenos cada vez son más frecuentes y severos.
   Es crucial frenar el aumento de las temperaturas para reducir estos desastres, pero también debemos adaptarnos y estar preparados para enfrentarlos cuando ocurran.
 ## 6. Consumo abusivo: 
