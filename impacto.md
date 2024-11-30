@@ -30,6 +30,8 @@ Segun la OMS el 90% de la humanidad respira aire contaminado, pero no solo se co
 * Las temperaturas han subido en las últimas décadas, lo que ha provocado un aumento en los eventos climáticos extremos como olas de calor, huracanes y sequías. Estos fenómenos cada vez son más frecuentes y severos.
   Es crucial frenar el aumento de las temperaturas para reducir estos desastres, pero también debemos adaptarnos y estar preparados para enfrentarlos cuando ocurran.
 ## 6. Consumo abusivo: 
+<img src="img/consumo.png" alt="consumo" width="300"/>
+
 * La obsolescencia programada, cuando los aparatos electrónicos se diseñan para dejar de funcionar después de cierto tiempo, contribuye a problemas medioambientales.
   Esto hace que tengamos que comprar constantemente productos nuevos, lo que aumenta el uso de materiales y la generación de residuos.
   Además, si no se gestionan bien, los residuos electrónicos pueden ser peligrosos para el medioambiente.
