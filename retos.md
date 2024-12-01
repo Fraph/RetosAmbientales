@@ -6,7 +6,11 @@ En la actualidad, el Planeta Tierra está sometido a cambios y desafíos sin pre
 
 
 El actual modelo de desarrollo, las actividades de la sociedad moderna y el enorme crecimiento demográfico (la población mundial se ha multiplicado por más de cinco en menos de cien años), están generando una demanda cada vez mayor de recursos naturales y están incrementando los impactos directos e indirectos sobre los ecosistemas. 
+
+
 ![To los arboleh corato por dio](img/retos.jpg)
+
+
 ## La sobrepoblacion
 
 Hablamos de sobrepoblacion en una region o zona cuando los recursos son insuficientes o no llegan a todos los individuos nque necesitan de esos recursos. La sobrepoblacion es un problema en muchos paises donde cada vez la produccion energetica, por ejemplo, es insuficiente, al igual que otras necesidades como la comida o el agua potable.
@@ -23,10 +27,15 @@ A dia de hoy el agua potable en el mundo es, en teoria, suficiente para dar de b
 
 ## Desigualdad y pobreza
 
+La **desigualdad** es la distribución desigual de recursos y oportunidades, mientras que la **pobreza** es la falta de lo necesario para cubrir necesidades básicas. Ambas están interconectadas: la desigualdad amplía las brechas sociales y limita las posibilidades de quienes viven en pobreza, perpetuando su situación. 
 
+Estas problemáticas afectan el desarrollo económico y la cohesión social. Superarlas requiere políticas inclusivas que reduzcan las brechas, inviertan en servicios básicos y promuevan igualdad de oportunidades para todos.
 
 ## Acceso inequitativo a la educacion y salud
 
+El acceso inequitativo a la educación se refleja en diferencias en la calidad de escuelas, tasas de deserción y oportunidades según ingresos, género o ubicación. Estas desigualdades limitan la movilidad social y perpetúan la pobreza, especialmente en comunidades vulnerables.
+
+En salud, las inequidades se ven en la falta de acceso a servicios básicos y atención de calidad, afectando principalmente a los grupos desfavorecidos. La relación entre educación y salud es clave: una educación limitada dificulta el acceso a prácticas saludables, y la mala salud reduce oportunidades educativas y económicas. Superar estas barreras requiere políticas que garanticen igualdad de acceso a ambos derechos fundamentales.
 
 ##
 
