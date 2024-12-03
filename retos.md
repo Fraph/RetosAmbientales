@@ -43,3 +43,8 @@ La generación de desechos es un desafío ambiental que contamina suelo, agua y 
 
 Abordarlo requiere prácticas sostenibles, como reducir, reutilizar y reciclar, junto con políticas de economía circular que minimicen residuos y promuevan la reutilización.
 
+## Contaminación lumínica
+
+La contaminación lumínica es el exceso de luz artificial que afecta el cielo nocturno, altera ecosistemas y perjudica la salud humana. Proviene de iluminación mal diseñada, como farolas y anuncios luminosos, que interrumpen ritmos naturales y desconectan de la naturaleza.
+
+Reducirla implica usar iluminación eficiente, horarios de apagado y tecnologías menos invasivas para proteger el medio ambiente y la calidad de vida.
