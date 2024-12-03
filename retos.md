@@ -37,8 +37,9 @@ El acceso inequitativo a la educación se refleja en diferencias en la calidad d
 
 En salud, las inequidades se ven en la falta de acceso a servicios básicos y atención de calidad, afectando principalmente a los grupos desfavorecidos. La relación entre educación y salud es clave: una educación limitada dificulta el acceso a prácticas saludables, y la mala salud reduce oportunidades educativas y económicas. Superar estas barreras requiere políticas que garanticen igualdad de acceso a ambos derechos fundamentales.
 
-##
+## Generación de desechos
 
-https://www.fundacionaquae.org/uso-del-agua-en-el-mundo/
+La generación de desechos es un desafío ambiental que contamina suelo, agua y aire, afectando ecosistemas y salud pública. El aumento de residuos no biodegradables, como plásticos, agrava la crisis ambiental. En España, por ejemplo, la generacion de basura es de 1,2kg (aprox) de basura al dia por persona, una cifra que pese a ser grande siguen situandose en la media europea.
 
-https://www.sostenibilidad.com/desarrollo-sostenible/causas-consecuencias-sobrepoblacion/#:~:text=El%20principal%20efecto%20de%20la,de%20generarlos-%20llega%20más%20temprano.
+Abordarlo requiere prácticas sostenibles, como reducir, reutilizar y reciclar, junto con políticas de economía circular que minimicen residuos y promuevan la reutilización.
+
