@@ -8,7 +8,7 @@
 4. [Medidas y acciones medioambientales](medidas.md)
 
 ---
-![socialambiental](img/Socialambiental.png)
+![desempeno](img/introduccion.jpg)
 ---
 
 [Conclusiones](conclusiones.md)
